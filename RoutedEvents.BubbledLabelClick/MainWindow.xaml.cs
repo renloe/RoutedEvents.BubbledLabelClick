@@ -24,5 +24,15 @@ namespace RoutedEvents.BubbledLabelClick
         {
             InitializeComponent();
         }
+
+        private void SomethingClicked(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+
+        private void cmdClear_Click(object sender, RoutedEventArgs e)
+        {
+            lstMessages.
+        }
     }
 }
